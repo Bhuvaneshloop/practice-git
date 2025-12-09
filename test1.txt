@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is hellow got from the new branch g_f_t:
 new comment from main branch 
+=======
+this is hellow got from the new branch g_f_t
+line to test conflict branch
+pat check
+>>>>>>> conflict-branch
